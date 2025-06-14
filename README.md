@@ -15,7 +15,7 @@ a Simple tool to display your system info for almost all Linux Distros.
 
 Clone the repository and run these commands:
 
-<pre lang="markdown"> bash git clone https://github.com/Coderx202/InfoPU.git
+<pre lang="markdown">git clone https://github.com/Coderx202/InfoPU.git
 cd InfoPU
 g++ -o infopu InfoPU.cpp
 ./infopu
