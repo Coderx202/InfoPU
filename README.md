@@ -23,5 +23,6 @@ g++ -o infopu InfoPU.cpp
 ## Tested distros
 - Fedora
 - Arch
-  
+- Debian (And most Debian based one for example ubuntu. etc...)
+- OpenSUSE Tumbleweed
 
