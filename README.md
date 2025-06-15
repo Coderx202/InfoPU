@@ -10,6 +10,7 @@ a Simple tool to display your system info for almost all Linux Distros.
 - Motherboard info
 - System Vendor
 - Product name (Laptop name for example)
+- Shows current package manager
 
 ## Usage
 
